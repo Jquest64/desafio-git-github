@@ -93,7 +93,7 @@ SHA (Algoritmo de Hash Seguro) - É um conjunto de funções criptográficas.
 
 ex:
 
-​	ssh-keygen -t ed25519 -c [***seul@email.com***](mailto:seuemail@gmail.com)
+​	ssh-keygen -t ed25519 -C [***seul@email.com***](mailto:seuemail@gmail.com)
 
 Vai criar duas chaves que são chamadas de pública e privada, que poderá ser acessada na pasta oculta .ssh.
 
